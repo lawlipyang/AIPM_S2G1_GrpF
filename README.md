@@ -27,4 +27,4 @@ Project Closing indicate the end of the project lifecycle where the project need
 
 Sample Result
 -----
-![sample_result](https://user-images.githubusercontent.com/121591281/211425008-5e9d6484-c668-4f1b-b1b0-74e58a9426b9.png)
+![sample_result](https://github.com/lawlipyang/AIPM_S2G1_GrpF/blob/96811b4d146ac4fc10a56c66696c69cd408f5dcf/Project_Documentation/Assets/sample_result.png)
