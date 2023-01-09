@@ -1,4 +1,4 @@
-#Object Detection System
+# Object Detection System
 Requirements
 -----
 
@@ -11,14 +11,14 @@ pip install opencv-python
 
 Files Detail
 -----
-##### Object_Detection_System.py
+1. Object_Detection_System.py
 Main python file
 
-##### coco.names
+2. coco.names
 List of labels of object
 
-##### frozen_inference_graph.pb
+3. frozen_inference_graph.pb
 Weights for DNN Model
 
-##### ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt
+4. ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt
 Configuration for DNN Model
