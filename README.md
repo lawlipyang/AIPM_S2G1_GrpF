@@ -1,7 +1,6 @@
 # AIPM_S2G1_GrpF
 Object Detection System
 =====
-hello
 This is a project that detect and recognize object. This project uses Deep Neural Network (DNN) in detection.
 
 The project is developed by following Project Management Plan(PMP) to better organized the lifecycle of the project. Several charting techniques such as Gantt Chart, Milestone Chart, Work Breakdown Structure(WBS) is used to manage the project.
