@@ -13,8 +13,10 @@ With our object detection system, which is a smart machine with Barcode Scanner 
 ### Project Name : OBJECT DETECTION
 
 ### Team Members
-#### •	LAW LIP YANG B032020040
-#### •	NABILAH BINTI MOHD NOOR B032120023
+
+•	LAW LIP YANG B032020040
+
+•	NABILAH BINTI MOHD NOOR B032120023
 
 
 ### Objectives
