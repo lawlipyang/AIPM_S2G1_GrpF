@@ -9,7 +9,7 @@
 ### Project Name : OBJECT DETECTION
 
 ### Team Members
-#### •	LAW LIP YANG B032020040
+ •	LAW LIP YANG B032020040
 #### •	NABILAH BINTI MOHD NOOR B032120023
 
 ### Objectives
