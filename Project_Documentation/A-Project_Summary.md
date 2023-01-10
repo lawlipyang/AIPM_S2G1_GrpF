@@ -6,7 +6,7 @@
 
 ### Customer
 
-### Project Name
+### Project Name : Object Detection System
 
 ### Team Members
 
