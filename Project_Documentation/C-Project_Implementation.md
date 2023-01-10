@@ -2,8 +2,8 @@
 
 ## C. IMPLEMENTING THE PROJECT
 
-#### Deliverables
+### Deliverables
 
-#### Tasks and Estimated Costs
+### Tasks and Estimated Costs
 
-#### Milestone Chart
+### Milestone Chart
