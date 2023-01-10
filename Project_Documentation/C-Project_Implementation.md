@@ -16,7 +16,7 @@ For the software, our group used python programming language to implement the co
 
 ### Tasks and Estimated Costs
 
-#### Milestone Chart
+### Milestone Chart
 
 ##### Microsoft Project:
  
