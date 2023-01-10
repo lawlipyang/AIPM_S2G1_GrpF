@@ -2,11 +2,11 @@
 
 ## A. DEFINING THE PROJECT
 
-### Project Summary
+### Project Summary 
 
 ### Customer
 
-### Project Name
+### Project Name : OBJECT DETECTOION
 
 ### Team Members
 
