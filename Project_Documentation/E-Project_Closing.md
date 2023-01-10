@@ -4,7 +4,7 @@
 
 ### Closing Checklist
 
-#### Customer Acceptance Form
+#### 1. Customer Acceptance Form
 ![accept_form](Assets/customer_acceptance_form.png)
 
 #### Lessons-Learned Report
@@ -13,5 +13,5 @@
 #### Final Report
 
 
-#### Close Contract
+#### 4. Close Contract
 ![close_contract](Assets/close_contract.png)
