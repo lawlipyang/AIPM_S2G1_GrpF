@@ -33,7 +33,7 @@ To allow the system label the object detected, we have a list of labels which is
 Furthermore, we use the API build in the OpenCV, whichc is used for object detection, as the model of this system. We has set up the Deep Neural Network model using the [weights](../src) and [configurations](../src). There is also some parameters that is set to the model.
 
 
-#### Detectthe object
+#### Detect the object
 ![obj_detect](Assets/object_detect.png)
 
 Finally, the system will show the output of detection. The object that is successfully detected will be surrrounded by a green rectangle and the label will show on the top-left of the rectangle. 
