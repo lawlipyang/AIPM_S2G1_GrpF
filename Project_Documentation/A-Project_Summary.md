@@ -2,12 +2,12 @@
 
 ## A. DEFINING THE PROJECT
 
-#### Project Summary
+### Project Summary
 
-#### Customer
+### Customer
 
-#### Project Name
+### Project Name
 
-#### Team Members
+### Team Members
 
-#### Objectives
+### Objectives
