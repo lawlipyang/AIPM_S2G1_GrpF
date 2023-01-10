@@ -11,7 +11,7 @@ D. EXECUTING THE PROJECT
 #### Import Library
 ![lib](Assets/import_library.png)
 
-First and foremost, we imported the required python library. The library required for this system is OpenCV. [installation of OpenCV] (https://github.com/lawlipyang/AIPM_S2G1_GrpF/tree/main/src#requirements)
+First and foremost, we imported the required python library. The library required for this system is OpenCV. [installation of OpenCV](https://github.com/lawlipyang/AIPM_S2G1_GrpF/tree/main/src#requirements)
 
 #### Setting up capture device
 ![cap_device](Assets/cap_device_setting.png)
