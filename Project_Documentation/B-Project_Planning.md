@@ -7,6 +7,7 @@
 ![wbs](Assets/wbs.png)
 
 #### Gantt Chart
+
 ![est_gantt_01](Assets/est_gantt_01.png)
 ![est_gantt_02](Assets/est_gantt_02.png)
 
