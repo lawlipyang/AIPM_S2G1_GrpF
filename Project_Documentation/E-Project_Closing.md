@@ -16,6 +16,8 @@
 
 ##### 1.0 PROJECT OBJECTIVES
 
+The object detection system done by Ai Tech was intended to develop an artificial intelligence system that is able to detect grocery when doing payment at the caunter in the Lotus mall. Besides, one of the aims of Ai Tech is to develop a system that is able to recognize items.In addition, we want to create an API that may be used as an integration module in the future for convenience.
+
 ##### 2.0 SUMMARY OF PROJECT RESULTS
 
 After the system has been completed, we tested the accuracy of the system. The system is 50%
@@ -42,7 +44,19 @@ The actual budget matches the original budget, which means that the team has fol
 
 #####  5.3  IMPACTS
 
-#####  5.0  TRANSITION PLAN
+By creating this system, the time needed of queuing up in front of the payment counter before checking out from the mall has been reduced. People do not have to waste time in long queues during the payment process. The payment process will be easier. users only need to scan the item and make a cashless payment.
+
+#####  6.0  TRANSITION PLAN
+
+Ai Tech. staff will provide support when require. The main work of support provided by Ai Tech. staff on the object detection system project are as shown below:
+
+i) Maintain the system
+
+ii) Handling errors and updates of the system
+
+iii) Provide user guidelines for Lotus staff to use the system
+
+iv) Report information to senior management on monthly basis
 
 
 #### 4. Close Contract
