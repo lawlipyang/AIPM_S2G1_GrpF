@@ -40,6 +40,8 @@ The actual budget matches the original budget, which means that the team has fol
 
 #####  5.1  SCOPE
 
+The project scope was initiated from the beginning of the project. For instance, the system cannot recognize the item correctly when it scan the new object. It caused the system confused to detect the object.The system only recognize or detect object that has already has a data in the model train.
+
 #####  5.2  OBJECTIVES
 
 Ai Tech. managed to achieve the objectives initialized since the beginning of the project. A system that is artificial intelligence powered, which uses Convolutional Neural Network(CNN) has been made. Convolutional Neural Network(CNN) is a class of deep neural networks which is mostly used to do object detection. By using this method, our objective of building the object detection was success. 
