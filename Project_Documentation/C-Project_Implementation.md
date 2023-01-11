@@ -24,7 +24,7 @@ In system for object detction , below is the outcome for the system .
 ### Tasks and Estimated Costs
 
 |          Task               | Estimated Costs |         Notes                        |
-| :---                        |     :---:       |          ---:                        |
+| :---                        |  :---           |         :---                         |
 | Server Maintenance          | $28000          | Monthly Cloud Server                 |
 | Construction supervision    | $50000          | Supervision on the project           |
 | Cultural resources          | $72000          | Investigate and evaluate undertaking |
