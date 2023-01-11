@@ -12,13 +12,14 @@ For the software, our group used python programming language to implement the co
 
 #### Intelligent System Architecture:
 
-For this system, it use th Convolutional Neural Network(CNN or ConvNet). It is a class of deep neural networks which is used to do object detection. There are three layers in a CNN: a convolutional layer, a pooling layer, and a fully connected layer.
+For this system, it use the Convolutional Neural Network(CNN or ConvNet) and Deep Neural Network (DNN). This both methods is a class of neural networks which is used to do object detection. It contain multiple layers between the input and output layers.
+
 ![image](https://user-images.githubusercontent.com/121591165/211704438-c094bc26-f11c-497e-8604-d0d6ec18f16c.png)
 
 
 #### Outcomes of the system
 
-In system for object detction , below is the outcome for the system .
+In this system, it use deep neural network (DNN) with multiple layers between the input and output layers for object detction.Below is the expected outcome for the system .
 
 ![image](https://user-images.githubusercontent.com/121591165/211705231-486cd6a6-f047-4412-b799-df5746a19b08.png)
 
