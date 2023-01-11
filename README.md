@@ -28,5 +28,5 @@ Project Closing indicate the end of the project lifecycle where the project need
 Project Presentation shows the demonstration of the car plate recognition system developed by AI Tech.
 
 Sample Result
------
+----- 
 ![sample_result](https://github.com/lawlipyang/AIPM_S2G1_GrpF/blob/96811b4d146ac4fc10a56c66696c69cd408f5dcf/Project_Documentation/Assets/sample_result.png)
