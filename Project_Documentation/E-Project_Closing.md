@@ -12,6 +12,10 @@
 
 #### Final Report
 
+#### OBJECT DETECTION SYSTEM
+
+#### 1.0 PROJECT OBJECTIVES
+
 #### 2.0 SUMMARY OF PROJECT RESULTS
 
 After the system has been completed, we tested the accuracy of the system. The system is 50%
