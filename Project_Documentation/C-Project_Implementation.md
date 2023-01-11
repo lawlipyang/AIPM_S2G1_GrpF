@@ -10,7 +10,7 @@ For the hardware, our group use our own laptop to develop the system with differ
 
 #### Software Requirement:
 
-For the software, our group used python programming language to implement the OpenCV DNN Detection Model. MobileNets Architecture and Single Shot Detector (SSD) is used in the training of weight and configuration parameters for the model. MobileNets-SSD design also provides a good result in extracting real-time  video
+For the software, our group used python programming language to implement the OpenCV DNN Detection Model. MobileNets Architecture and Single Shot Detector (SSD) is used in the training of weight and configuration parameters for the model. MobileNets-SSD design also provides a good result in extracting real-time video.
 
 #### Intelligent System Architecture:
 
