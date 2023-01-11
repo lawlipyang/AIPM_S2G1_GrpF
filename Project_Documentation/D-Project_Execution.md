@@ -30,7 +30,7 @@ To allow the system label the object detected, we have a list of labels which is
 #### Setting up the DNN model
 ![dnn_model](Assets/dnn_model_setting.png)
 
-Furthermore, we use the API build in the OpenCV, whichc is used for object detection, as the model of this system. We has set up the Deep Neural Network model using the [weights](../src) and [configurations](../src). There is also some parameters that is set to the model.
+Furthermore, we use the module (dnn. build in the OpenCV, whichc is used for object detection, as the model of this system. We has set up the Deep Neural Network model using the [weights](../src) and [configurations](../src). There is also some parameters that is set to the model.
 
 
 #### Detect the object
