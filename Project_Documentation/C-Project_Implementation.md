@@ -19,6 +19,7 @@ For this system, it use th Convolutional Neural Network(CNN or ConvNet). It is a
 #### Outcomes of the system
 
 In system for object detction , below is the outcome for the system .
+
 ![image](https://user-images.githubusercontent.com/121591165/211705231-486cd6a6-f047-4412-b799-df5746a19b08.png)
 
 ### Tasks and Estimated Costs
