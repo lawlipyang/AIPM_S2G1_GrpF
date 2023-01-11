@@ -19,6 +19,7 @@ The MobileNet-SSD design provides good object detection accuracy while being spe
 Based on streamlined MobileNet Architecture, which uses depth-wise separable convolutions to build lightweight deep neural networks, input will be provided through Realtime video from a camera or webcam. Frames from the input video are sent to the MobileNet layers. The amount of pixel intensity beneath the bright zone and the amount under the dark area are the two factors used to calculate each feature value. These elements are computed using all of the image's potential sizes and areas. An image may include few important qualities that can be utilised to identify the object and many irrelevant features.
 
 ![image](Assets/mobilenet.png)
+
 a) Standard convolutional layer; b) Depth-wise seperable convolutional
 
 The job of the MobileNet layers is to change over the pixels from the input image into highlights that describe the contents of the image. Then it passes to MobileNet-SSD model to determine the bounding boxes and corresponding class (label) of objects. After that the only last step is to show or display the Output.
