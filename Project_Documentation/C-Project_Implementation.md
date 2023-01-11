@@ -19,7 +19,7 @@ For this system, it use the Convolutional Neural Network(CNN or ConvNet) and Dee
 
 #### Outcomes of the system
 
-In this system, it use deep neural network (DNN) with multiple layers between the input and output layers for object detction.Below is the expected outcome for the system .
+Below is the expected outcome for the object detection system .
 
 ![image](https://user-images.githubusercontent.com/121591165/211705231-486cd6a6-f047-4412-b799-df5746a19b08.png)
 
