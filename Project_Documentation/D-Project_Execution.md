@@ -42,3 +42,7 @@ Finally, the system will show the output of detection. The object that is succes
 ### Project Result
 #### Sample Result
 ![result](Assets/sample_result.png)
+
+
+<br><br><br>
+##### Next: [Project Closing ](E-Project_Closing.md)
