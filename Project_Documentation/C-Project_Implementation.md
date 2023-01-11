@@ -4,7 +4,7 @@
 
 ### Deliverables
 
-Hardware Requirement: Hardware Requirement: For the hardware, our group uses using a private laptop to develop the system with different spesification.
+Hardware Requirement: Hardware Requirement: For the hardware, our group use our own laptop to develop the system with different specification.
 
 #### Software Requirement:
 
