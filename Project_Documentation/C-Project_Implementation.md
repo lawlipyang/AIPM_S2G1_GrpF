@@ -4,11 +4,13 @@
 
 ### Deliverables
 
-Hardware Requirement: Hardware Requirement: For the hardware, our group use our own laptop to develop the system with different specification.
+#### Hardware Requirement: 
+
+For the hardware, our group use our own laptop to develop the system with different specification.
 
 #### Software Requirement:
 
-For the software, our group used python programming language to implement the code for intelligent module in recognizing object, MobileNets a computer vision models for TensorFlow and PHP programming language to design the interface in the website and database connection.
+For the software, our group used python programming language to implement the OpenCV DNN Detection Model. MobileNets Architecture and Single Shot Detector (SSD) is used in the training of weight and configuration parameters for the model. MobileNets-SSD design also provides a good result in extracting real-time  video
 
 #### Intelligent System Architecture:
 
