@@ -22,6 +22,7 @@ Based on streamlined MobileNet Architecture, which uses depth-wise separable con
 
 a) Standard convolutional layer; b) Depth-wise seperable convolutional
 
+
 The job of the MobileNet layers is to change over the pixels from the input image into highlights that describe the contents of the image. Then it passes to MobileNet-SSD model to determine the bounding boxes and corresponding class (label) of objects. After that the only last step is to show or display the Output.
 
 OpenCV is a library of programming functions basically focused on real time computer vision. For computer vision applications like CCTV film analysis, video analysis, and picture analysis, OpenCV is a helpful open-source library. It is a fantastic tool for carrying out computer vision tasks and picture processing.
