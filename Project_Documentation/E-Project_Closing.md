@@ -9,7 +9,7 @@
 
 #### 2. Lessons-Learned Report
 
-!(lesson_learned_rpt)(Assets/lesson_learned_rpt.png)
+![lesson_learned_rpt](Assets/lesson_learned_rpt.png)
 
 #### 3. Final Report
 
