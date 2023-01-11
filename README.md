@@ -15,7 +15,7 @@ Project Summary give a brief overview of the project objectives and team members
 [Project Planning: ](Project_Documentation/B-Project_Planning.md)
 Planning processes include devising and maintaining a workable scheme to ensure that the project addresses the organization’s needs. Gantt Chart, Work Breakdown Structure(WBS) is documented in this phase.
 
-[Project Implementation: ](Project_Documentation/C-Project_Implementation)
+[Project Implementation: ](Project_Documentation/C-Project_Implementation.md)
 Project Implementation define the project deliverables which included software requirement, Intelligent system architecture and etc.
 
 [Project Execution: ](Project_Documentation/D-Project_Execution.md)
