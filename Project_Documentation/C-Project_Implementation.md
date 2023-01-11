@@ -8,7 +8,7 @@ Hardware Requirement: Hardware Requirement: For the hardware, our group use our 
 
 #### Software Requirement:
 
-For the software, our group used python programming language to implement the code for intelligent module in recognizing object, MobileNets is computer vision models for TensorFlow and PHP programming language to design the interface in the website and database connection.
+For the software, our group used python programming language to implement the code for intelligent module in recognizing object, MobileNets a computer vision models for TensorFlow and PHP programming language to design the interface in the website and database connection.
 
 #### Intelligent System Architecture:
 
