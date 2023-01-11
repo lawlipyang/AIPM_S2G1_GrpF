@@ -24,7 +24,7 @@ Project Execution is the execution phase where the result, coding blocks and tec
 [Project Closing: ](Project_Documentation/E-Project_Closing.md)
 Project Closing indicate the end of the project lifecycle where the project need to document closing document and lesson learnt report.
 
-[Project Presentation: ](Project_Documentation/E-Project_Presentation.md)
+[Project Presentation: ](Project_Documentation/F-Project_Presentation.md)
 Project Presentation shows the demonstration of the car plate recognition system developed by AI Tech.
 
 Sample Result
