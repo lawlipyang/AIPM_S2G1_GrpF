@@ -17,10 +17,9 @@
 
 | Control Element                                             | Center-aligned | Right-aligned |
 | ---                                                         |     :---     |          :--- |
-| Quality (Poor attitude  toward quality; substandard design,
+| Quality (Poor attitude  toward quality; substandard design, | git status     | git status    |
   materials, and workmanship; 
-  inadequate quality assurance program)                        | git status     | git status    |
-    
+  inadequate quality assurance program)                        
 | Cost (Estimating errors; inadequate             | git diff       | git diff      |
   productivity, cost, change, or contingency)     
 | Time (Errors in estimating time or resource a   | git diff       | git diff      |
