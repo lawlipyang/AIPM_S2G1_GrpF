@@ -12,6 +12,7 @@
 ![est_gantt_02](Assets/est_gantt_02.png)
 
 ### Scope
+This project aims to develop an object detection system that used capture device to identify and classify object based on objects appearance and characteristic. This system are able to capture the moving object and identify it in soon. In this project, we plan to have 223 days of time to develop the system. Start from initiating (31 days), planning (60 days), executing (90 days), monitoring and controlling (31 days), and end with closing (20 days). 
 
 ### Risk Identification Chart
 
