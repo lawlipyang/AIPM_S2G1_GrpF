@@ -29,4 +29,4 @@ With our object detection system, which is a smart machine with Barcode Scanner 
 
 
 <br><br><br>
-##### Next: [Project Planning: ](Project_Documentation/B-Project_Planning.md)
+##### Next: [Project Planning ](Project_Documentation/B-Project_Planning.md)
