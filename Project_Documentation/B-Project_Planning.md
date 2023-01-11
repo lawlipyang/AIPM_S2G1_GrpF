@@ -16,7 +16,7 @@
 ### Risk Identification Chart
 
 | Control Element                                 | Center-aligned | Right-aligned |
-| :---                                            |     :---     |          :--- |
+| ---                                             |     :---     |          :--- |
 | Quality (Poor attitude                          | git status     | git status    |
   toward quality; substandard design,
   materials, and workmanship; 
