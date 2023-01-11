@@ -7,10 +7,10 @@
 #### 1. Customer Acceptance Form
 ![accept_form](Assets/customer_acceptance_form.png)
 
-#### Lessons-Learned Report
+#### 2. Lessons-Learned Report
 
 
-#### Final Report
+#### 3. Final Report
 
 #### OBJECT DETECTION SYSTEM
 
@@ -28,6 +28,15 @@ The project member sticks to the Gantt chart scheduled so, the actual progress f
 
 The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
 
+####  5.0  PROJECT ASSESSMENT
+
+####  5.1  SCOPE
+
+####  5.2  OBJECTIVES
+
+####  5.3  IMPACTS
+
+####  5.0  TRANSITION PLAN
 
 
 #### 4. Close Contract
