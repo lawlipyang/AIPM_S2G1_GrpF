@@ -12,9 +12,20 @@ For the software, our group used python programming language to implement the co
 
 #### Intelligent System Architecture:
 
-For this system, it use the Convolutional Neural Network(CNN or ConvNet) and Deep Neural Network (DNN). This both methods is a class of neural networks which is used to do object detection. It contain multiple layers between the input and output layers.
+In this project, we're going to use the Mobilenet-SSD model to quickly and effectively recognise objects in real time. We will use OpenCV and a deep neural network to construct an object detection Python script.
 
-![image](https://user-images.githubusercontent.com/121591165/211704438-c094bc26-f11c-497e-8604-d0d6ec18f16c.png)
+The MobileNet-SSD design provides good object detection accuracy while being speedier than other architectures, we chose the DNN model based on it. This is true in particular when trying to detect an object in real time on low-powered computer systems like our system. 
+
+Based on streamlined MobileNet Architecture, which uses depth-wise separable convolutions to build lightweight deep neural networks, input will be provided through Realtime video from a camera or webcam. Frames from the input video are sent to the MobileNet layers. The amount of pixel intensity beneath the bright zone and the amount under the dark area are the two factors used to calculate each feature value. These elements are computed using all of the image's potential sizes and areas. An image may include few important qualities that can be utilised to identify the object and many irrelevant features.
+
+![image](Assets/mobilenet.png)
+a) Standard convolutional layer; b) Depth-wise seperable convolutional
+
+The job of the MobileNet layers is to change over the pixels from the input image into highlights that describe the contents of the image. Then it passes to MobileNet-SSD model to determine the bounding boxes and corresponding class (label) of objects. After that the only last step is to show or display the Output.
+
+OpenCV is a library of programming functions basically focused on real time computer vision. For computer vision applications like CCTV film analysis, video analysis, and picture analysis, OpenCV is a helpful open-source library. It is a fantastic tool for carrying out computer vision tasks and picture processing.
+
+
 
 
 #### Outcomes of the system
