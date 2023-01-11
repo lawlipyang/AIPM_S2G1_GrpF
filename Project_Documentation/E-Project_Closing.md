@@ -42,6 +42,8 @@ The actual budget matches the original budget, which means that the team has fol
 
 #####  5.2  OBJECTIVES
 
+Ai Tech. managed to achieve the objectives initialized since the beginning of the project. A system that is artificial intelligence powered, which uses Convolutional Neural Network(CNN) has been made. Convolutional Neural Network(CNN) is a class of deep neural networks which is mostly used to do object detection. By using this method, our objective of building the object detection was success. 
+
 #####  5.3  IMPACTS
 
 By creating this system, the time needed of queuing up in front of the payment counter before checking out from the mall has been reduced. People do not have to waste time in long queues during the payment process. The payment process will be easier. users only need to scan the item and make a cashless payment.
