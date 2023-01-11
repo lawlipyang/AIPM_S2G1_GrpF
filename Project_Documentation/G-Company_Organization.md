@@ -26,7 +26,7 @@ Resposiblity:
 
 **CHIEF OPERATING OFFICIAL (COO)**
 
-<img src="assets/nabila.jpeg" width="200" height="auto" />
+<img src="Assets/nabila.jpeg" width="200" height="auto" />
 
 **NABILAH BINTI MOHD NOOR**
 
