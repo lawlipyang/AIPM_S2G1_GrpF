@@ -25,7 +25,7 @@ With our object detection system, which is a smart machine with Barcode Scanner 
 
 •	To develop a system that are able to recognize the character of the object
 
-•	To develop an application programming interface (API) for the future ease of use as the integration module
+•To develop an application with artificial intelligence for the future ease of use as the integration module
 
 
 <br><br><br>
